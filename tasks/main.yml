@@ -1,0 +1,7 @@
+---
+# tasks file for vivekrole
+-
+  always: 
+      - debug: 
+         msg: 
+            - "Hello from vivek!" 
